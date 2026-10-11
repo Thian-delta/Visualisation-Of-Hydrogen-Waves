@@ -51,11 +51,8 @@ The `additional files` folder contains supporting materials that are not directl
 
 The main one is the visualization of the `angular wave function`. Hydrogen wave functions consist of two parts: radial and angular wave function. The radial wave function depends solely on the radial distance, r, from the nucleus, while the angular wave function describes the directionality and defines the appearance of the orbital. At present, the angular wave function only assigns probabilities of 0 or 1, with no intermediate values, limiting the accuracy of the visualization.
 
-9. License
-
-This file is not licensed (all rights reserved). However, I kindly request that you contact me prior to making any modifications to the code.
 Another thing is the `inefficiency` of the code. While the program runs fairly smoothly, the code is quite lengthy and repetitive. It would be beneficial to refine the code, particularly in the definition of animations for each frame and each color. Optimizing the code structure could improve readability while also potentially enhancing performance.
 
 9. License
+
 This file is not licensed (all rights reserved). However, I kindly request that you contact me prior to making any modifications to the code.
- 
